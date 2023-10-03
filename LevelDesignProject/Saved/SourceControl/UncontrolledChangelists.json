@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/emilyzhou/Desktop/uiuc/cs415/LevelDesignProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+			]
+		}
+	]
+}
